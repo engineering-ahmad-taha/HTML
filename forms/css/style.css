@@ -1,0 +1,17 @@
+form{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+label{width: 110px;display: block;float: left;
+text-align: right}
+
+
+fieldset{background-color:#ffff99;}
+
+fieldset:nth-of-type(2) {
+  text-align: left;
+}
+legend{text-align: left;}
+
+input,select{background-color: #fff;border-radius: 5px}
